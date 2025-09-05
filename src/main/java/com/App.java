@@ -1,4 +1,4 @@
-package com.routeplanner;
+package com;
 
 /**
  * Hello world!

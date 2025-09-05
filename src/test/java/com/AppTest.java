@@ -1,4 +1,4 @@
-package com.routeplanner;
+package com;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

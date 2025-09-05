@@ -9,3 +9,37 @@
 # OS-specifika filer
 Thumbs.db
 .DS_Store
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+.history/
+
+# IntelliJ / IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio (om det skulle användas)
+.vs/
