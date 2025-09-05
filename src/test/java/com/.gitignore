@@ -1,0 +1,11 @@
+# Ignorera byggfiler
+/target/
+
+# Ignorera IDE/Editor-filer
+.vs/
+.idea/
+*.iml
+
+# OS-specifika filer
+Thumbs.db
+.DS_Store
